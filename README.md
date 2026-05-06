@@ -517,7 +517,7 @@ Contributions are welcome! Please follow these steps:
 **Aryan Verma**
 
 - GitHub: [@aryan-oo9](https://github.com/aryan-oo9)
-- Email: aryanverma1750@gmail.com
+- Email: int.aryanverma@gmail.com
 
 ## 🙏 Acknowledgments
 
